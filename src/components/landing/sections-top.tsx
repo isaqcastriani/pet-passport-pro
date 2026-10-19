@@ -51,7 +51,7 @@ export function HeroSection() {
         <div className="relative z-20 min-w-0 lg:pb-24">
           <Reveal className="flex flex-wrap items-center gap-x-6 gap-y-3">
             <div className="flex items-center gap-4">
-              <LogoLockup height="h-12" />
+              <LogoLockup height="h-16" />
               <span className="bg-pv-line h-10 w-px" />
             </div>
             <div className="space-y-1.5">

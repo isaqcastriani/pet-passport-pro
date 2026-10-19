@@ -192,7 +192,7 @@ export function BigTypeSection() {
 
         {/* stage: logo + cut-out standing on the floor line */}
         <div className="relative h-[var(--pv-stage)] w-full overflow-hidden">
-          <div aria-hidden="true" className="absolute top-[10%] left-1/2 w-max -translate-x-1/2">
+          <div aria-hidden="true" className="absolute top-[3%] left-1/2 w-max -translate-x-1/2">
             <LogoLockup height="h-[clamp(3.2rem,12vw,9rem)]" />
           </div>
           {/*

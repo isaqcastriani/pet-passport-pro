@@ -79,7 +79,7 @@ export function PlanSection() {
               {/* ---- right: planning lead time ---- */}
               <div className="bg-pv-white px-8 py-10 text-center sm:px-10 lg:px-12 lg:py-14">
                 <div className="flex justify-center">
-                  <LogoLockup height="h-12" />
+                  <LogoLockup height="h-16" />
                 </div>
 
                 <p className="text-pv-ink mx-auto mt-9 max-w-[22rem] text-left text-[1.02rem] leading-[1.65]">
@@ -328,11 +328,10 @@ export function WhoSection() {
 
             <div className="mt-12 flex flex-wrap gap-x-14 gap-y-8">
               <div>
-                <p className="text-[clamp(2.6rem,5.5vw,4rem)] leading-[0.9] font-normal">+7</p>
+                <p className="text-[clamp(2.6rem,5.5vw,4rem)] leading-[0.9] font-normal">12</p>
                 <p className="mt-3 max-w-[9rem] text-[0.87rem] leading-[1.5] opacity-80">
-                  Etapas veterinárias
-                  <br />
-                  resolvidas no mesmo lugar
+                  Anos de história
+                  <br />e dedicação
                 </p>
               </div>
               <div>
@@ -461,7 +460,7 @@ export function FaqSection() {
         <div className="bg-pv-sky/35 mt-16 h-px w-full" />
 
         <footer className="text-pv-cream mt-8 flex flex-col items-center justify-between gap-6 sm:flex-row">
-          <LogoLockup invert height="h-11" />
+          <LogoLockup invert height="h-14" />
           <div className="text-center text-[0.87rem] leading-[1.7] opacity-80 sm:text-right">
             <p>Pet a Vet — cuidado veterinário na Vila Madalena, São Paulo</p>
             <p>
